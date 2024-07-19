@@ -2,4 +2,6 @@
 
 They're animated and go in circles
 
-https://github.com/BMaxV/simple_panda_clouds/blob/master/clouds.mp4
+
+https://github.com/user-attachments/assets/a104662a-ec41-439a-a92f-d93823b37988
+
